@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\LMS_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39CEBFB0-A76B-42D9-9037-83B89FCDB3DD}|LMS_1\\LMS_1.csproj|c:\\users\\admin\\source\\repos\\lms_1\\lms_1\\entity\\bookissuer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CEBFB0-A76B-42D9-9037-83B89FCDB3DD}|LMS_1\\LMS_1.csproj|solutionrelative:lms_1\\entity\\bookissuer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CEBFB0-A76B-42D9-9037-83B89FCDB3DD}|LMS_1\\LMS_1.csproj|c:\\users\\admin\\source\\repos\\lms_1\\lms_1\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CEBFB0-A76B-42D9-9037-83B89FCDB3DD}|LMS_1\\LMS_1.csproj|solutionrelative:lms_1\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CEBFB0-A76B-42D9-9037-83B89FCDB3DD}|LMS_1\\LMS_1.csproj|c:\\users\\admin\\source\\repos\\lms_1\\lms_1\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CEBFB0-A76B-42D9-9037-83B89FCDB3DD}|LMS_1\\LMS_1.csproj|solutionrelative:lms_1\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CEBFB0-A76B-42D9-9037-83B89FCDB3DD}|LMS_1\\LMS_1.csproj|c:\\users\\admin\\source\\repos\\lms_1\\lms_1\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CEBFB0-A76B-42D9-9037-83B89FCDB3DD}|LMS_1\\LMS_1.csproj|solutionrelative:lms_1\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CEBFB0-A76B-42D9-9037-83B89FCDB3DD}|LMS_1\\LMS_1.csproj|c:\\users\\admin\\source\\repos\\lms_1\\lms_1\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CEBFB0-A76B-42D9-9037-83B89FCDB3DD}|LMS_1\\LMS_1.csproj|solutionrelative:lms_1\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CEBFB0-A76B-42D9-9037-83B89FCDB3DD}|LMS_1\\LMS_1.csproj|c:\\users\\admin\\source\\repos\\lms_1\\lms_1\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CEBFB0-A76B-42D9-9037-83B89FCDB3DD}|LMS_1\\LMS_1.csproj|solutionrelative:lms_1\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CEBFB0-A76B-42D9-9037-83B89FCDB3DD}|LMS_1\\LMS_1.csproj|c:\\users\\admin\\source\\repos\\lms_1\\lms_1\\repositories\\catagoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CEBFB0-A76B-42D9-9037-83B89FCDB3DD}|LMS_1\\LMS_1.csproj|solutionrelative:lms_1\\repositories\\catagoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CEBFB0-A76B-42D9-9037-83B89FCDB3DD}|LMS_1\\LMS_1.csproj|c:\\users\\admin\\source\\repos\\lms_1\\lms_1\\controllers\\catagorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CEBFB0-A76B-42D9-9037-83B89FCDB3DD}|LMS_1\\LMS_1.csproj|solutionrelative:lms_1\\controllers\\catagorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CEBFB0-A76B-42D9-9037-83B89FCDB3DD}|LMS_1\\LMS_1.csproj|c:\\users\\admin\\source\\repos\\lms_1\\lms_1\\profiles\\eventprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CEBFB0-A76B-42D9-9037-83B89FCDB3DD}|LMS_1\\LMS_1.csproj|solutionrelative:lms_1\\profiles\\eventprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CEBFB0-A76B-42D9-9037-83B89FCDB3DD}|LMS_1\\LMS_1.csproj|c:\\users\\admin\\source\\repos\\lms_1\\lms_1\\interfaces\\ieventrepsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CEBFB0-A76B-42D9-9037-83B89FCDB3DD}|LMS_1\\LMS_1.csproj|solutionrelative:lms_1\\interfaces\\ieventrepsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CEBFB0-A76B-42D9-9037-83B89FCDB3DD}|LMS_1\\LMS_1.csproj|c:\\users\\admin\\source\\repos\\lms_1\\lms_1\\interfaces\\icatagoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CEBFB0-A76B-42D9-9037-83B89FCDB3DD}|LMS_1\\LMS_1.csproj|solutionrelative:lms_1\\interfaces\\icatagoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CEBFB0-A76B-42D9-9037-83B89FCDB3DD}|LMS_1\\LMS_1.csproj|c:\\users\\admin\\source\\repos\\lms_1\\lms_1\\profiles\\catagoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CEBFB0-A76B-42D9-9037-83B89FCDB3DD}|LMS_1\\LMS_1.csproj|solutionrelative:lms_1\\profiles\\catagoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CEBFB0-A76B-42D9-9037-83B89FCDB3DD}|LMS_1\\LMS_1.csproj|c:\\users\\admin\\source\\repos\\lms_1\\lms_1\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CEBFB0-A76B-42D9-9037-83B89FCDB3DD}|LMS_1\\LMS_1.csproj|solutionrelative:lms_1\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 48,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LMS_1\\LMS_1\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "LMS_1\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LMS_1\\LMS_1\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "LMS_1\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAArwAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:47:01.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEventRepsitory.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LMS_1\\LMS_1\\Interfaces\\IEventRepsitory.cs",
+              "RelativeDocumentMoniker": "LMS_1\\Interfaces\\IEventRepsitory.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LMS_1\\LMS_1\\Interfaces\\IEventRepsitory.cs",
+              "RelativeToolTip": "LMS_1\\Interfaces\\IEventRepsitory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:46:32.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LMS_1\\LMS_1\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "LMS_1\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LMS_1\\LMS_1\\Controllers\\BookController.cs",
+              "RelativeToolTip": "LMS_1\\Controllers\\BookController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAowDwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:12:49.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CatagoryController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LMS_1\\LMS_1\\Controllers\\CatagoryController.cs",
+              "RelativeDocumentMoniker": "LMS_1\\Controllers\\CatagoryController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LMS_1\\LMS_1\\Controllers\\CatagoryController.cs",
+              "RelativeToolTip": "LMS_1\\Controllers\\CatagoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:04:58.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LMS_1\\LMS_1\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "LMS_1\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LMS_1\\LMS_1\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "LMS_1\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:52:05.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CatagoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LMS_1\\LMS_1\\Repositories\\CatagoryRepository.cs",
+              "RelativeDocumentMoniker": "LMS_1\\Repositories\\CatagoryRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LMS_1\\LMS_1\\Repositories\\CatagoryRepository.cs",
+              "RelativeToolTip": "LMS_1\\Repositories\\CatagoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:51:47.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LMS_1\\LMS_1\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "LMS_1\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LMS_1\\LMS_1\\Controllers\\EventController.cs",
+              "RelativeToolTip": "LMS_1\\Controllers\\EventController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowC4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:26:30.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookIssuer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LMS_1\\LMS_1\\Entity\\BookIssuer.cs",
+              "RelativeDocumentMoniker": "LMS_1\\Entity\\BookIssuer.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LMS_1\\LMS_1\\Entity\\BookIssuer.cs",
+              "RelativeToolTip": "LMS_1\\Entity\\BookIssuer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:26:39.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LMS_1\\LMS_1\\Repositories\\EventRepository.cs",
+              "RelativeDocumentMoniker": "LMS_1\\Repositories\\EventRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LMS_1\\LMS_1\\Repositories\\EventRepository.cs",
+              "RelativeToolTip": "LMS_1\\Repositories\\EventRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:56:04.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventProfile.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LMS_1\\LMS_1\\Profiles\\EventProfile.cs",
+              "RelativeDocumentMoniker": "LMS_1\\Profiles\\EventProfile.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LMS_1\\LMS_1\\Profiles\\EventProfile.cs",
+              "RelativeToolTip": "LMS_1\\Profiles\\EventProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:05:39.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICatagoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LMS_1\\LMS_1\\Interfaces\\ICatagoryRepository.cs",
+              "RelativeDocumentMoniker": "LMS_1\\Interfaces\\ICatagoryRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LMS_1\\LMS_1\\Interfaces\\ICatagoryRepository.cs",
+              "RelativeToolTip": "LMS_1\\Interfaces\\ICatagoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:48:18.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CatagoryProfile.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LMS_1\\LMS_1\\Profiles\\CatagoryProfile.cs",
+              "RelativeDocumentMoniker": "LMS_1\\Profiles\\CatagoryProfile.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LMS_1\\LMS_1\\Profiles\\CatagoryProfile.cs",
+              "RelativeToolTip": "LMS_1\\Profiles\\CatagoryProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:26:07.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "categoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LMS_1\\LMS_1\\Dtos\\categoryDto.cs",
+              "RelativeDocumentMoniker": "LMS_1\\Dtos\\categoryDto.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LMS_1\\LMS_1\\Dtos\\categoryDto.cs",
+              "RelativeToolTip": "LMS_1\\Dtos\\categoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:47:48.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
